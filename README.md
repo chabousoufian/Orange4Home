@@ -5,6 +5,7 @@ This project involved the following steps:
 1. Extraction of tables from a MySQL database
 2. Merging and pre-processing of data to create a dataset containing 256 sensors (256 features)
 3. Implementation of three different approaches to model creation:
+
     A. **All-feature selection:** using the entire dataset to create MLP, LSTM, and GRU models.
     
     B. **Feature selection:** using F-ANOVA to select the 50, 100, 150, and 200 most relevant parameters, and creating models based on these selected features.
