@@ -1,4 +1,4 @@
-# Orange4Home dataset Overview
+# Orange4Home A Dataset of Routine Daily Activities in an Instrumented Home 
 
 This project involved the following steps:
 
